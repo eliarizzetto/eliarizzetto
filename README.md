@@ -1,5 +1,6 @@
 Elia Rizzetto.
-Student in Digital Humanities and Digital Knowledge @ University of Bologna.
+Graduate in Digital Humanities and Digital Knowledge at the University of Bologna.
+Currently working at [OpenCitations](https://opencitations.net/).
 
 <!---
 eliarizzetto/eliarizzetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
